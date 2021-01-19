@@ -1,0 +1,13 @@
+C:\Users\90554\source\repos\Methods\Methodss\bin\Debug\netcoreapp3.1\Methodss.exe
+C:\Users\90554\source\repos\Methods\Methodss\bin\Debug\netcoreapp3.1\Methodss.deps.json
+C:\Users\90554\source\repos\Methods\Methodss\bin\Debug\netcoreapp3.1\Methodss.runtimeconfig.json
+C:\Users\90554\source\repos\Methods\Methodss\bin\Debug\netcoreapp3.1\Methodss.runtimeconfig.dev.json
+C:\Users\90554\source\repos\Methods\Methodss\bin\Debug\netcoreapp3.1\Methodss.dll
+C:\Users\90554\source\repos\Methods\Methodss\bin\Debug\netcoreapp3.1\Methodss.pdb
+C:\Users\90554\source\repos\Methods\Methodss\obj\Debug\netcoreapp3.1\Methodss.csprojAssemblyReference.cache
+C:\Users\90554\source\repos\Methods\Methodss\obj\Debug\netcoreapp3.1\Methodss.AssemblyInfoInputs.cache
+C:\Users\90554\source\repos\Methods\Methodss\obj\Debug\netcoreapp3.1\Methodss.AssemblyInfo.cs
+C:\Users\90554\source\repos\Methods\Methodss\obj\Debug\netcoreapp3.1\Methodss.csproj.CoreCompileInputs.cache
+C:\Users\90554\source\repos\Methods\Methodss\obj\Debug\netcoreapp3.1\Methodss.dll
+C:\Users\90554\source\repos\Methods\Methodss\obj\Debug\netcoreapp3.1\Methodss.pdb
+C:\Users\90554\source\repos\Methods\Methodss\obj\Debug\netcoreapp3.1\Methodss.genruntimeconfig.cache
